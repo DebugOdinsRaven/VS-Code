@@ -5,4 +5,5 @@ elif number < 1:
     print("Your number is out of bounds!")
 else:
     print("Thank you for following directions!")
+    
              
